@@ -15,5 +15,14 @@ Below is a list of available releases for this project, ordered chronologically 
 2. Download the project files from the release page. (.zip)
 3. Unzip and open the .uproject and explore!
 
+
+## Compatibility
+Tested with:
+- Unreal Engine 5.5.4
+- Unreal Engine 5.6.0
+
+This project is likely to work with any version of Unreal Engine 5.6 or later.
+
+
 Have an unreal day!
 
